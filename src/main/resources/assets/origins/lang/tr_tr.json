@@ -1,32 +1,32 @@
 {
   "origin.origins.human.name": "İnsan",
-  "origin.origins.human.description": "Normal bir insan. Sıradan Minecraft deneyimi.",
+  "origin.origins.human.description": "Normal bir insan olarak minecraft deneyimin seni bekliyor.",
 
-  "origin.origins.merling.name": "Merling",
-  "origin.origins.merling.description": "Bu okyanus sakinleri uzun süre sudan çıkmaya alışkın değiller.",
+  "origin.origins.merling.name": "Deniz İnsanı",
+  "origin.origins.merling.description": "Okyanusda yaşıyan bu canlılar deniz çıkmaya pek alışık değiller.",
 
-  "origin.origins.arachnid.name": "Arachnid",
-  "origin.origins.arachnid.description": "Tırmanma yetenekleri ve düşmanlarını örümcek ağına hapsedebilme yetenekleri, Arachnid'i mükemmel avcılar yapar.",
+  "origin.origins.arachnid.name": "Avcı",
+  "origin.origins.arachnid.description": "Tırmanma yetenekleri ve düşmanlarını örümcek ağına hapsedebilme yetenekleri, onları mükemmel avcılar yapar.",
 
-  "origin.origins.blazeborn.name": "Blazeborn",
-  "origin.origins.blazeborn.description": "Blaze'in son torunları olan Blazeborn, doğal olarak Nether'in tehlikelerine karşı bağışıklığı vardır.",
+  "origin.origins.blazeborn.name": "Yanan",
+  "origin.origins.blazeborn.description": "Blaze'in son torunları olan Yanan, doğal olarak Nether'in tehlikelerine karşı bağışıklığı vardır.",
 
-  "origin.origins.avian.name": "Avian",
-  "origin.origins.avian.description": "Avian ırkı, uçma yeteneğini uzun zaman önce kaybetti. Şimdi bu barışçıl yaratıklar bir yerden diğerine süzülürken görülebilir.",
+  "origin.origins.avian.name": "Süzülen",
+  "origin.origins.avian.description": "Süzülen ırkı, uçma yeteneğini uzun zaman önce kaybetti. Şimdi bu barışçıl yaratıklar bir yerden diğerine süzülürken görülebilir.",
 
-  "origin.origins.phantom.name": "Phantom",
-  "origin.origins.phantom.description": "Yarı-insan ve yarı-phantom yavrular olarak, bu yaratıklar hayalet formu ve normal bir form arasında geçiş yapabilirler.",
+  "origin.origins.phantom.name": "Fantom",
+  "origin.origins.phantom.description": "Yarı-insan ve yarı-fantom yavrular olarak, bu yaratıklar hayalet formu ve normal bir form arasında geçiş yapabilirler.",
 
-  "origin.origins.feline.name": "Feline",
-  "origin.origins.feline.description": "Kedi benzeri görünümleriyle Feline, creeperları korkutur. Kedilerin yeteneği ile her zaman güvenle dört ayaklarının üzerine inerler",
+  "origin.origins.feline.name": "Kedi",
+  "origin.origins.feline.description": "Kedi benzeri görünümleriyle Feline, creeperları korkuta bilir. Kedilerin yeteneği ile her zaman güvenle dört ayaklarının üzerine inerler",
 
-  "origin.origins.elytrian.name": "Elytrian",
-  "origin.origins.elytrian.description": "Elytrian'lar genellikle rüzgarlarda uçar, başlarının üzerinde yeterince alan olmadığında rahatsız olurlar.",
+  "origin.origins.elytrian.name": "Uçan",
+  "origin.origins.elytrian.description": "Uçan'lar genellikle rüzgarlarda uçar, başlarının üzerinde yeterince alan olmadığında rahatsız olurlar.",
 
-  "origin.origins.enderian.name": "Enderian",
-  "origin.origins.enderian.description": "Ender Ejderhasının oğulları ve kızları olarak doğan Enderian'lar ışınlanma yeteneğine sahipler ancak suya karşı savunmasızlar.",
+  "origin.origins.enderian.name": "End Canavarı",
+  "origin.origins.enderian.description": "Ender Ejderhasının oğulları ve kızları olarak doğan End Yaratıkları ışınlanma yeteneğine sahipler ancak suya karşı savunmasızlar.",
 
-  "origin.origins.shulk.name": "Shulk",
+  "origin.origins.shulk.name": "Shulker",
   "origin.origins.shulk.description": "Shulkerlarla kan bağları olan Shulk'ın vücutları koruyucu kabuk benzeri bir deri ile donatılmıştır.",
 
   "power.origins.water_breathing.name": "Solungaçlar",
@@ -41,7 +41,7 @@
   "power.origins.swim_speed.name": "Yüzgeçler",
   "power.origins.swim_speed.description": "Su altında daha hızlısın.",
 
-  "power.origins.like_water.name": "Su Gibi",
+  "power.origins.like_water.name": "Suya Benzer",
   "power.origins.like_water.description": "Suyun altındayken istemediğiniz sürece batmazsınız.",
 
   "power.origins.fragile.name": "Kırılgan",
@@ -102,15 +102,15 @@
   "power.origins.sprint_jump.description": "Koşarken daha yükseğe zıplayabilirsiniz.",
 
   "power.origins.nine_lives.name": "Dokuz Canlı",
-  "power.origins.nine_lives.description": "İnsanlardan 1 kalp daha az canınız var.",
+  "power.origins.nine_lives.description": "Normal insanlardan 1 kalp daha az canınız var.",
 
-  "power.origins.cat_vision.name": "Gece Hayvanı",
+  "power.origins.cat_vision.name": "Gece Görüşü",
   "power.origins.cat_vision.description": "Suyun altında değilken karanlıkta diğerlerinden daha iyi görebilirsiniz.",
 
   "power.origins.weak_arms.name": "Güçsüz Kollar",
   "power.origins.weak_arms.description": "Bir güç iksirinin etkisi altında olmadığın sürece, yanında ikiden fazla doğal taş olan taşları kıramazsınız.",
 
-  "power.origins.scare_creepers.name": "Kedi-Gibi Görünüm",
+  "power.origins.scare_creepers.name": "Kediye Benziyen Görünüm",
   "power.origins.scare_creepers.description": "Creeperlar senden korkar ve sadece sen onlara saldırırsan patlarlar.",
 
   "power.origins.launch_into_air.name": "Rüzgarların Hediyesi",
@@ -134,10 +134,10 @@
   "power.origins.throw_ender_pearl.name": "Işınlanma",
   "power.origins.throw_ender_pearl.description": "İstediğiniz zaman, hiçbir hasar vermeyen ve ışınlanmanıza izin veren bir ender incisi fırlatabilirsiniz.",
 
-  "power.origins.pumpkin_hate.name": "Balkabaklarından Korkmak",
+  "power.origins.pumpkin_hate.name": "Balkabakları Korkusu",
   "power.origins.pumpkin_hate.description": "Balkabaklarından korkuyorsun. İyi bir nedeni var.",
 
-  "power.origins.extra_reach.name": "Uzun Vücüt",
+  "power.origins.extra_reach.name": "Uzun Beden",
   "power.origins.extra_reach.description": "Daha uzaktaki bloklara ve varlıklara erişebilirsiniz.",
 
   "power.origins.shulker_inventory.name": "İstifçi",
@@ -146,7 +146,7 @@
   "power.origins.natural_armor.name": "Sağlam Vücut",
   "power.origins.natural_armor.description": "Zırh giymeden bile cildiniz doğal koruma sağlar.",
 
-  "power.origins.more_exhaustion.name": "Büyük İştah",
+  "power.origins.more_exhaustion.name": "Büyük Açlık",
   "power.origins.more_exhaustion.description": "Diğerlerinden çok daha çabuk yorulursunuz, bu yüzden daha fazla yemenizi gerektirir.",
 
   "power.origins.no_shield.name": "Kontrolsüz",
